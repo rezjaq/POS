@@ -21,8 +21,8 @@
             padding: 20px;
             background-color: #fff;
             border-radius: 8px;
-            box-shadow: 0 10px 20px rgba(0,0,0,0.2); /* Adjust the shadow as needed */
-            max-width: 600px; /* Set maximum width to prevent stretching on larger screens */
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2); 
+            max-width: 600px; 
         }
         h1 {
             color: #007bff;
@@ -31,7 +31,7 @@
             animation: pulse 1.5s infinite alternate;
         }
         .product-image {
-            width: 300px; /* Adjust the width as per your product image */
+            width: 300px; 
             margin-bottom: 20px;
             border-radius: 8px;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
@@ -59,7 +59,6 @@
             background-color: #0056b3;
         }
 
-        /* Keyframe animations */
         @keyframes pulse {
             0% {
                 transform: scale(1);

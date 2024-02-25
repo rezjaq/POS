@@ -45,7 +45,7 @@
 <body>
     <div class="container">
         <h1>Welcome to Our Website!</h1>
-        <h1>Point Of Sales</h1> <!-- Teks kedua -->
+        <h1>Point Of Sales</h1>
         <img src="http://localhost/POS/resources/img/_44c4697c-b4a8-43f0-be6c-4f866fb776e2.jpg" alt="Homepage Image">
         <p>This is the home page</p>
     </div>
