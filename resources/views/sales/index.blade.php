@@ -86,7 +86,7 @@
         <img src="https://images.samsung.com/id/smartphones/galaxy-s24/images/galaxy-s24-highlights-kv.jpg?imbypass=true" alt="Product Image" class="product-image">
         <p class="product-description">Welcome to the era of mobile AI. With Galaxy S24 | S24+ in your hands, you can unleash whole new levels of creativity, productivity and possibility — starting with the most important device in your life. Your smartphone.
             Epic, just like that.</p>
-        <a href="#" class="cta-button">Buy Now</a>
+        <a href="https://www.samsung.com/id/smartphones/galaxy-s24/" class="cta-button">Buy Now</a>
     </div>
 </body>
 </html>
